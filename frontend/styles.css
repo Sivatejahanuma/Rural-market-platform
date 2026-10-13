@@ -1,0 +1,16 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+}
+
+button {
+    background: green;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+#price-list {
+    margin-top: 20px;
+}
